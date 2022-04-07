@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "mai.h"
+#include "main.h"
 
 /**
  * *array_range - creates an array of integers
